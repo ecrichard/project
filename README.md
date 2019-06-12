@@ -5,3 +5,5 @@ Your game should print instructions at the beginning. (These instructions are im
 inconsistancies between the game and the instructions. Everything should work like the instructions say and the game should never crash. 
 If your game follows your instructions and never crashes you will recieve full credit. Extra points may be given for creativity or if you 
 created a new game.
+
+There will be no skeleton code for this project because of the many different types of games you could create.
